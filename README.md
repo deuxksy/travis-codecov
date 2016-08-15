@@ -1,2 +1,3 @@
-[![Build Status](https://travis-ci.org/deuxksy/test1.svg?branch=master)](https://travis-ci.org/deuxksy/test1)
-[![Coverage Status](https://coveralls.io/repos/github/deuxksy/test1/badge.svg)](https://coveralls.io/github/deuxksy/test1)
+[![Build Status](https://travis-ci.org/deuxksy/travis-codecov.svg?branch=master)](https://travis-ci.org/deuxksy/travis-codecov)
+[![codecov](https://codecov.io/gh/deuxksy/travis-codecov/branch/master/graph/badge.svg)](https://codecov.io/gh/deuxksy/travis-codecov)
+python travis 와 codecov 연동을 테스트 하기 위해서
