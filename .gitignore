@@ -1,0 +1,5 @@
+.idea/
+.tox/
+venv/
+db.sqlite3
+.coverage
